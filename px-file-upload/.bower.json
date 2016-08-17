@@ -1,6 +1,6 @@
 {
   "name": "px-file-upload",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": [
     "px-file-upload.html"
   ],
@@ -31,7 +31,7 @@
     "px-typography-design": "~0.3.2",
     "px-tabs": "~0.4.0",
     "px-api-viewer": "^0.0.4",
-    "px-demo-snippet": "^0.0.12",
+    "px-demo-snippet": "^0.1.0",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
     "px-actionable-text-icons-design": "^0.0.3",
@@ -40,14 +40,14 @@
     "px-polymer-font-awesome": "^0.1.8"
   },
   "homepage": "https://github.com/PredixDev/px-file-upload",
-  "_release": "0.0.2",
+  "_release": "0.0.3",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.2",
-    "commit": "968804610a77c4d950bd34ab7b5070e06cbc7124"
+    "tag": "v0.0.3",
+    "commit": "961318391d5caa74eb1a9b07fdf317f90ff66453"
   },
   "_source": "https://github.com/PredixDev/px-file-upload.git",
-  "_target": "^0.0.2",
+  "_target": "^0.0.3",
   "_originalSource": "px-file-upload",
   "_direct": true
 }
